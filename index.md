@@ -19,7 +19,7 @@ in real-time and converses with you.
 >detected emotion and responds, via a 
 >**voice agent**. 
 
-
+<section>
 **Demonstration**
 >insert demo video when it is made
 
@@ -28,7 +28,7 @@ in real-time and converses with you.
 
 
 
-
+</section>
 **Get to know the team behind Introspect**
 
 _Aishwarya_
