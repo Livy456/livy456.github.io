@@ -22,9 +22,6 @@ in real-time and converses with you.
 **Demonstration**
 >insert demo video when it is made
 
-**Bold** and _Italic_ and `Code` text
-
-
 
 **Get to know the team behind Introspect**
 
@@ -38,7 +35,7 @@ _Catherine_
 
 _Olivia_
 >Description
-![](/img/Profile_Professional2.png)
+![]()
 
 _Sagar_
 >Description
