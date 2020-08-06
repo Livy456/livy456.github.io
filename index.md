@@ -26,7 +26,7 @@ in real-time and converses with you.
 
 #### Meet the team behind Introspect
 
-_Aishwarya_
-_Catherine_
-_Olivia_
+_Aishwarya_,
+_Catherine_,
+_Olivia_,
 _Sagar_
