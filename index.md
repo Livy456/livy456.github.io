@@ -15,7 +15,7 @@ in real-time and converses with you.
 >We use a multimodal system of **computer-vision**
 >**speech recognition** to detect the emotions
 >of the user in **real-time**!!
->And then the smart mirror processes the
+>The smart mirror processes the
 >detected emotion and responds, via a 
 >**voice agent**. 
 
@@ -40,6 +40,3 @@ _Olivia_
 _Sagar_
 >Description
 ![]()
-
-[Link](url) 
-```
