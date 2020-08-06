@@ -7,7 +7,9 @@ _**What are we working on**_
 **What is Introspect**
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Get to know the team behind Introspect
+![Olivia](/img/Profile_Professional2.png)
+ 
+[Link](url) 
 ```
 it worked
