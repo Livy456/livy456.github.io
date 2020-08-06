@@ -24,20 +24,9 @@ in real-time and converses with you.
 >insert demo video when it is made
 
 
-#### Get to know the team behind Introspect
+#### Meet the team behind Introspect
 
 _Aishwarya_
->Description
-![]()
-
 _Catherine_
->Description
-![]()
-
 _Olivia_
->Description
-![]()
-
 _Sagar_
->Description
-![]()
