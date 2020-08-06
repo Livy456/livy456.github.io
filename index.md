@@ -6,6 +6,7 @@
 ## What is Introspect
 >A smart mirror that understands your emotions 
 in real-time and converses with you.
+![]()
 
 ### Goal
 >Creating a companion that is able
