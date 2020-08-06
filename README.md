@@ -1,6 +1,6 @@
 ## Welcome to the Inator-Inators' homepage!!
 
-_**What are we working on**__
+_**What are we working on**_
 >Our prototype Introspect
 
 #What is Introspect#
