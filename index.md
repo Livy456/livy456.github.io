@@ -19,10 +19,15 @@ in real-time and converses with you.
 >detected emotion and responds, via a 
 >**voice agent**. 
 
+
 **Demonstration**
 >insert demo video when it is made
 
 **Bold** and _Italic_ and `Code` text
+
+
+
+
 
 **Get to know the team behind Introspect**
 
