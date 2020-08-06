@@ -1,13 +1,13 @@
-## Welcome to the Inator-Inators' homepage!!
+# Welcome to the Inator-Inators' homepage!!
 
-_**What are we working on**_
+###_What are we working on*_
 >Our prototype Introspect
 
-**What is Introspect**
+###**What is Introspect**
 >A smart mirror that understands your emotions 
 in real-time and converses with you.
 
-**Goal**
+###**Goal**
 >Creating a companion that is able
 >to accurately detect the user's emotions
 
